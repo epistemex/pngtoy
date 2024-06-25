@@ -33,6 +33,10 @@ built-in method to produce a new minimal PNG version of the original file.
 **pngtoy** let you just parse the chunks without decompressing and decoding
 any data.
 
+_Help keep the project alive by supporting the developer:_
+
+[![PayPalMe](https://github.com/epistemex/transformation-matrix-js/assets/70324091/04203267-58f0-402b-9589-e2dee6e7c510)](https://paypal.me/KenNil)
+
 
 Features
 --------
@@ -124,6 +128,6 @@ License
 
 [Contact us](mailto:github@epistemex.com) if you need a commercial license.
 
-*&copy; 2015-2017 Epistemex*
+*&copy; 2015-2017, 2024 Epistemex*
 
 ![Epistemex](http://i.imgur.com/GP6Q3v8.png)
